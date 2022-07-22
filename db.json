@@ -1,0 +1,43 @@
+{
+  "playlist": [
+    {
+      "id": 1,
+      "img": "https://a10.gaanacdn.com/gn_img/showcase/XYybzrb2gz/Yybzzoob2g/size_m_1658125695.webp"
+    },
+    {
+      "id": 2,
+      "img": "https://a10.gaanacdn.com/gn_img/showcase/jBr3gLyWR1/jBr3gmZbR1/size_m_1657870626.webp"
+    },
+    {
+      "id": 3,
+      "img": "https://a10.gaanacdn.com/gn_img/showcase/4Z9bqgo3yQ/Z9bq59XbyQ/size_m_1658208301.webp"
+    },
+    {
+      "id": 4,
+      "img": "https://a10.gaanacdn.com/gn_img/showcase/JD2KJAbOLw/JD2KJBNKOL/size_m_1625724485.webp"
+    },
+    {
+      "id": 5,
+      "img": "https://a10.gaanacdn.com/gn_img/showcase/Rz4W8vKxD5/z4W82r9KxD/size_m_1651216169.webp"
+    },
+    {
+      "id": 6,
+      "img": "https://a10.gaanacdn.com/gn_img/showcase/R7vKX66Wmr/7vKX6G0Wmr/size_m_1658462156.webp"
+    },
+    {
+      "id": 7,
+      "img": "https://a10.gaanacdn.com/gn_img/showcase/a7LWBkzbzX/a7LWBNjWzX/size_m_1658130781.webp"
+    },
+    {
+      "id": 8,
+      "img": "https://a10.gaanacdn.com/gn_img/showcase/ZaP374RWDy/aP37jeBKDy/size_m_1635338169.webp"
+    }
+  ],
+  "trending": [
+    {
+      "id": 1,
+      "title": "Kesariya",
+      "img": "https://a10.gaanacdn.com/gn_img/albums/XzVWRLKdqR/VWRymQya3d/size_m_1658037290.webp"
+    }
+  ]
+}
